@@ -11,5 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/83721477/193539698-7d4a8507-312a-4393-9a25-ff3a939723e1.png)
 
+* Réduire les domaines de diffusion améliore les performances
+
 
 
